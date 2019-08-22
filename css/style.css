@@ -834,6 +834,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   grid-template-areas: "l1 m1 r1" "l2 m2 r2" "l3 m3 r3" "l4 m4 r4" "l5 m5 r5" "l6 m6 r6" "l7 m7 r7" "l8 m8 r8" "l9 m9 r9" "l10 m10 r10" "l11 m11 r11" "l12 m12 r12" "l13 m13 r13" "l14 m14 r14" "l15 m15 r15" "l16 m16 r16" "l17 m17 r17";
   justify-items: center;
   align-items: center;
+  overflow: scroll hidden;
 }
 
 #services .struktur{
